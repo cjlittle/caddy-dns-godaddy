@@ -1,4 +1,4 @@
-module github.com/caddy-dns/godaddy
+module github.com/cjlittle/caddy-dns-godaddy
 
 go 1.18
 
